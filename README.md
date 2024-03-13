@@ -1,6 +1,7 @@
 ![](https://i.imgur.com/3PKdQ7v.png)
 # Hello, I'm Gabriel Kuek
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=700&height=70&lines=Gabriel+Kuek;Cyber+Security)](https://git.io/typing-svg)
+
 <a href="https://www.linkedin.com/in/gabriel-kuek-0184772b6/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent computer science graduate with a profound interest in technology and a dedication to solving complex problems.
