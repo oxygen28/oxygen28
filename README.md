@@ -1,4 +1,3 @@
-![](https://i.imgur.com/3PKdQ7v.png)
 # Hello, I'm Gabriel Kuek
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=700&height=70&lines=Gabriel+Kuek;Cyber+Security)](https://git.io/typing-svg)
 
